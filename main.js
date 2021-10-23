@@ -35,3 +35,4 @@ function getGitHubProfileInfos() {
 }
 
 getGitHubProfileInfos()
+//test
